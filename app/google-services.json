@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590098953169",
+    "firebase_url": "https://fecap-lab.firebaseio.com",
+    "project_id": "fecap-lab",
+    "storage_bucket": "fecap-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590098953169:android:cdd041fea3e92681",
+        "android_client_info": {
+          "package_name": "com.xudre.autenticacaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590098953169-dp2bpvfoafc1bcr13r5de1hupp7u9kju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xudre.autenticacaofirebase",
+            "certificate_hash": "9848e5757fdc8f2ad760d413723cd005a5bf6c72"
+          }
+        },
+        {
+          "client_id": "590098953169-n65p9v2bipcsaegch1p04v2g1rftl2j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CNHXCLD-PyNEiYrvIPehfiCmL1AHVUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590098953169-n65p9v2bipcsaegch1p04v2g1rftl2j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
