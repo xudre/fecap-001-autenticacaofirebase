@@ -7,8 +7,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private Button _gmail;
-    private Button _facebook;
+    private Button gmail;
+    private Button facebook;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,11 +32,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void Setup() {
-        _gmail = findViewById(R.id.button_gmail);
-        _facebook = findViewById(R.id.button_facebook);
+        gmail = findViewById(R.id.button_gmail);
+        facebook = findViewById(R.id.button_facebook);
 
-        _gmail.setOnClickListener(this);
-        _facebook.setOnClickListener(this);
+        gmail.setOnClickListener(this);
+        facebook.setOnClickListener(this);
     }
 
     private void AuthGmail() {
